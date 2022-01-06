@@ -1,7 +1,8 @@
-# sephora
+# Sephora Predict Product Price
 ## Regression
 <img src="https://github.com/talbaiz/Regression/blob/main/sephora.png" width="800" height="600" />
-# Sephora Predict Product Price
+
+
 
 # Introduction:
 
