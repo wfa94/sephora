@@ -2,10 +2,15 @@
 ## Regression
 <img src="https://github.com/talbaiz/Regression/blob/main/sephora.png" width="800" height="600" />
 # Sephora Predict Product Price
+
 # Introduction:
+
 Sephora represents one of the largest marketplaces on the world. People use its products on a daily basis to order skin care, makeup, perfumes, and even web hosting services.
 # Data Description:
+
 the dataset was taken from kaggle and containing the following features:
+
+
 | Field Name                | Description                                                                     |
 |---------------------------|---------------------------------------------------------------------------------|
 | id                        | The product ID at Sephora's website                                             |
@@ -23,12 +28,18 @@ the dataset was taken from kaggle and containing the following features:
 | online_only               | If the product is sold online only                                              |
 | exclusive                 | If the product is sold exclusively on Sephora's website                         |
 | limited_edition           | If the product is limited edition                                               |
+
+
 # Tools:
+
 - Pandas and Numpy for data manipulation.
 - Sklearn for linear regression.
 - Matplotlib and Seaborn for plotting.
+
 -----------------------------------------------------
+
 The second project - T5 Data Science Bootcamp
+
 By:<br />
 Taghreed Albaiz<br />
 Wafa Albattah<br />
