@@ -42,6 +42,6 @@ the dataset was taken from kaggle and containing the following features:
 The second project - T5 Data Science Bootcamp
 
 By:<br />
-Taghreed Albaiz<br />
 Wafa Albattah<br />
+Taghreed Albaiz<br />
 Leena Alshwaihi<br />
